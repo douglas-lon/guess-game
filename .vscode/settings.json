@@ -1,0 +1,11 @@
+{
+    "java.completion.filteredTypes": [
+
+        
+        "com.sun.*",
+        "sun.*"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ]
+}
